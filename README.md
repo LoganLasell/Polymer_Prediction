@@ -2,7 +2,7 @@
 ## This Repository contains a Random Forest Regressor Model meant to predict 5 chemical properties of a Polymer using SMILES data.
 
 ### Chemical Properties:
-#### - Polymer Density
+#### - Polymer Density (Completed)
 #### - Thermal Conductivity
 #### - Glass Transition Temperature
 #### - Radius of Gyration
