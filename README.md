@@ -9,7 +9,7 @@
 #### - Fractional Free Volume
 
 ### Completed Models:
-#### - Polymer Density (Low Density Model Threshold: <=1.1, High Density Model Threshold: >1.2
+#### - Polymer Density (Low Density Model Threshold: <=1.1, High Density Model Threshold: >1.2)
 
 ### Files
 #### - Polymer_Prediction.ipynb: Jupyter Notebook containing, Cleaned Data, Model, Evaluations, and Error Visualizations
@@ -17,5 +17,5 @@
 #### - test.csv: Testing data used to Evaluate Model
 
 #### Data obtained from the Kaggle Competition: NeurIps - Open Polymer Prediction 2025
-#### Web URL for Competition Information: https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/overview
+#### URL for Competition Information: https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/overview
  
