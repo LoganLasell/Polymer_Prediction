@@ -8,10 +8,10 @@
 #### - Radius of Gyration
 #### - Fractional Free Volume
 
-### Completed Models:
+## Completed Models:
 #### - Polymer Density (Low Density Model Threshold: <=1.1, High Density Model Threshold: >1.2)
 
-### Files
+## Files
 #### - Polymer_Prediction.ipynb: Jupyter Notebook containing, Cleaned Data, Model, Evaluations, and Error Visualizations
 #### - train.csv: Training data used by Model
 #### - test.csv: Testing data used to Evaluate Model
