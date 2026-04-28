@@ -1,4 +1,4 @@
-# Polymer Prediction
+# Polymer Prediction (Work in Progress)
 ## This Repository contains a Random Forest Regressor Model meant to predict 5 chemical properties of a Polymer using SMILES data.
 
 ### Chemical Properties:
@@ -18,4 +18,8 @@
 
 #### Data obtained from the Kaggle Competition: NeurIps - Open Polymer Prediction 2025
 #### URL for Competition Information: https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/overview
+
+# 
+
+#### *NOTICE: This repository is used for my own research/study goals in Machine Learning Architecture. Not for the actual competition*
  
